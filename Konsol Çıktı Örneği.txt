@@ -1,0 +1,51 @@
+
+🧑‍🎮 Ahmet - Can: 100 | Mana: 50
+👾 Zombi - Can: 40
+
+1 - Normal Saldırı
+Seçim: 1
+Ahmet, Zombi'ye normal saldırı yaptı! (20 hasar)
+👾 Zombi, Ahmet'e saldırıyor! (10 hasar)
+
+🧑‍🎮 Ahmet - Can: 90 | Mana: 50
+👾 Zombi - Can: 20
+
+2 - Özel Saldırı
+Seçim: 2
+Ahmet, özel saldırı yaptı! (40 hasar)
+✅ Zombi yenildi!
+
+👾 Yeni düşman geldi: Goblin
+
+👾 Goblin - Can: 50 | Güç: 15
+👾 Goblin, Ahmet'e saldırıyor! (15 hasar)
+
+🧑‍🎮 Ahmet - Can: 75 | Mana: 30
+
+3 - Mana Yenile
+Seçim: 3
+Ahmet, meditasyon yaparak manasını yeniledi. (+15 Mana)
+👾 Goblin, Ahmet'e saldırıyor! (15 hasar)
+
+🧑‍🎮 Ahmet - Can: 60 | Mana: 45
+👾 Goblin - Can: 50
+
+2 - Özel Saldırı
+Seçim: 2
+Ahmet, özel saldırı yaptı! (40 hasar)
+👾 Goblin, Ahmet'e saldırıyor! (15 hasar)
+
+🧑‍🎮 Ahmet - Can: 45 | Mana: 25
+👾 Goblin - Can: 10
+
+1 - Normal Saldırı
+Seçim: 1
+Ahmet, Goblin'e normal saldırı yaptı! (20 hasar)
+✅ Goblin yenildi!
+
+👾 Yeni düşman geldi: Ejderha
+
+👾 Ejderha - Can: 80 | Güç: 25
+👾 Ejderha, Ahmet'e saldırıyor! (25 hasar)
+
+🧑‍🎮 Ahmet - Can: 20 | Mana: 25
