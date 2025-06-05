@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.exe
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.deps.json
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.runtimeconfig.json
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.dll
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\bin\Debug\net8.0\Program.cs.pdb
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.dll
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\obj\Debug\net8.0\refint\Program.cs.dll
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.pdb
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\obj\Debug\net8.0\Program.cs.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\Program.cs\Program.cs\obj\Debug\net8.0\ref\Program.cs.dll
