@@ -42,3 +42,65 @@ Ahmet, özel saldırı yaptı! (40 hasar)
 👾 Ejderha, Ahmet'e saldırıyor! (25 hasar)
 
 🧑‍🎮 Ahmet - Can: 20 | Mana: 25
+## 📁 Sınıf diyagramı
+- 
+class Karakter {
+  - Isim: string
+  - Can: int
+  - Guç: int
+  - Mana: int
+  - ToplamSaldiriSayisi: int <<static>>
+  + Saldir(hedef: Karakter)
+}
+
+class Oyuncu {
+  + OzelSaldiri(hedef: Karakter)
+  + ManaYenile()
+  + Saldir(hedef: Karakter)
+}
+
+class Dusman {
+  + Saldir(hedef: Karakter)
+}
+
+Karakter <|-- Oyuncu
+Karakter <|-- Dusman
+
+Oyuncu : + Saldir(override)
+Dusman : + Saldir(override)
+Karakter : + Saldir(virtual)
+## 📁 Akış Seması
+- 
+start
+:Oyuncu ismi al;
+:Dusman oluştur;
+:Skor = 0;
+
+repeat
+  if (Oyuncu Can > 0?) then (evet)
+    :Can, Mana ve Dusman Can yazdır;
+    :Seçim al (1.Normal, 2.Özel, 3.Mana Yenile);
+
+    if (Seçim == 1) then (evet)
+      :Oyuncu normal saldırı yap;
+    else if (Seçim == 2) then (evet)
+      :Oyuncu özel saldırı yap (mana kontrolü);
+    else
+      :Oyuncu mana yenile;
+    endif
+
+    if (Dusman Can <= 0) then (evet)
+      :Skor += 10;
+      :Yeni düşman oluştur;
+    else
+      :Düşman saldırı yap;
+    endif
+
+  else (hayır)
+    stop
+  endif
+repeat while (Oyuncu Can > 0)
+stop
+
+
+
